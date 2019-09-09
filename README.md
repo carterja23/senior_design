@@ -1,6 +1,5 @@
 # senior_design
 
-===
 Tips:
 1. The board for the 3D printer is the RAMBo v1.4 See specs here:
    https://reprap.org/wiki/Rambo_v1.4
