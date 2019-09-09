@@ -38,3 +38,18 @@ IMPORTANT FOR DUE USERS
 
 There is an additional folder AdditionalArduinoFiles with separate readme that describes how to get
 watchdog working. It is a very good idea to compile with working watchdog!!!
+
+===
+Tips:
+1. The board for the 3D printer is the RAMBo v1.4 See specs here:
+   https://reprap.org/wiki/Rambo_v1.4
+   
+2. Use Repetier-Firmware Configuration Tool to change the repetier firmware
+   https://www.repetier.com/firmware/v092/
+   
+3. Pronterface.exe is a frontend software used for testing the printer:
+   https://www.pronterface.com/
+
+4. Repetier-Host is the preferred frontend software:
+   https://www.repetier.com/download-now/
+
